@@ -82,3 +82,6 @@ footer p {
     font-weight: bolder;
 }
 
+body {
+    height: 100vh;
+}
